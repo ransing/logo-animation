@@ -1,19 +1,19 @@
 <svg class="logo" xmlns="http://www.w3.org/2000/svg" width="686" height="150" viewBox="0 0 1000 220">
   
   
-  <defs>
+  <!-- <defs>
   <mask id="mask" x="0" y="0" height="100%" width="100%">
-      <rect id="rect" x="0" y="0" height="100%" width="100%"/>
+      <rect id="rect" x="0" y="0" height="100%" width="100%"/> -->
 
-    <!-- <text x="72"  y="50">OCEAN</text> -->
+    <text x="72"  y="50">OCEAN</text>
 
   <!-- N -->
   <path class="nanimated" style="fill:#9A3728;" d="M214.347,172.042V47.946h24.931l67.351,80.002V47.946h28.652v124.096h-24.931l-67.35-80.374v80.374
 		H214.347z"></path>
 
-    </mask>
+    <!-- </mask>
   </defs>
-  <!-- <rect x="0" y="0" height="100%" width="100%"/> -->
+  <rect x="0" y="0" height="100%" width="100%"/> -->
 
   <!-- V -->
 	<path class="vanimated" style="fill:#9A3728;" d="M384.215,47.946l31.443,79.444l31.442-79.444h30.884l-52.652,124.096h-19.349L353.331,47.946
