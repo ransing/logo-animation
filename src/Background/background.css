@@ -24,12 +24,20 @@
     font-family: Biko, sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 27px;
   }
   svg rect {
-    fill: white;
+    fill: rgb(230, 230, 230);
+    opacity: .9;
   }
+
   svg > rect {
       -webkit-mask: url(#mask);
       mask: url(#mask);
+      opacity: 1;
+      fill:black
+  }
+
+  .background {
+      fill: aliceblue;
   }

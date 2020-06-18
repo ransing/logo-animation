@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  background-color: black
+  background-color: black;
+  opacity:.8;
 }
 
 .logo1 {
@@ -97,7 +98,7 @@ svg {
 }
 
 video {
-  filter: brightness(30%);
+  filter: brightness(50%);
   width: 100%;
   height: 100%;
 }

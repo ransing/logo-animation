@@ -19,12 +19,13 @@ const brand = { name: "peekaboo", to: "home" };
 function App() {
   return (
     <div className="App">
-      <NavBar brand={brand} links={navlinks} />
+      <NvVideo/>
+      {/* <NavBar brand={brand} links={navlinks} />
         <Switch>
           <Route exact path='/' component={NvDems}/>
           <Route exact path='/video' component={NvVideo}/>
           <Route exact path='/background' component={Background}/>
-        </Switch>
+        </Switch> */}
     </div>
   );
 }
